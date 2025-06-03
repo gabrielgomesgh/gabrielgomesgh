@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel Gomes 👋
 
-### I enjoy working with web development.
+### I enjoy working with software development.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgomesgh&layout=compact)
 
